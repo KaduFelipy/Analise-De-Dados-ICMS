@@ -153,7 +153,5 @@ Caso queira contribuir, siga os passos:
 
 Projeto desenvolvido para fins educativos e aberto para melhorias.
 
-📌 **Criado por Amanda Varaschin**
-https://github.com/Amanda-Varaschin/dashboard-icms
 
 
